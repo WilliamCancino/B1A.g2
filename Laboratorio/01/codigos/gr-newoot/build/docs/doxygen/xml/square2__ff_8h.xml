@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="square2__ff_8h" kind="file" language="C++">
+    <compoundname>square2_ff.h</compoundname>
+    <includes refid="api_8h" local="no">newoot/api.h</includes>
+    <includes local="no">gnuradio/sync_block.h</includes>
+    <includedby refid="square2__ff__impl_8h" local="no">square2_ff_impl.h</includedby>
+    <incdepgraph>
+      <node id="14">
+        <label>gnuradio/sync_block.h</label>
+      </node>
+      <node id="13">
+        <label>gnuradio/attributes.h</label>
+      </node>
+      <node id="11">
+        <label>square2_ff.h</label>
+        <link refid="square2__ff_8h"/>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>newoot/api.h</label>
+        <link refid="api_8h"/>
+        <childnode refid="13" relation="include">
+        </childnode>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="16">
+        <label>square2_ff_impl.h</label>
+        <link refid="square2__ff__impl_8h"/>
+      </node>
+      <node id="15">
+        <label>square2_ff.h</label>
+        <link refid="square2__ff_8h"/>
+        <childnode refid="16" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+    <innerclass refid="classgr_1_1newoot_1_1square2__ff" prot="public">gr::newoot::square2_ff</innerclass>
+    <innernamespace refid="namespacegr">gr</innernamespace>
+    <innernamespace refid="namespacegr_1_1newoot">gr::newoot</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/william/Documentos/Comunicaciones_2/oot/gr-newoot/include/newoot/square2_ff.h"/>
+  </compounddef>
+</doxygen>

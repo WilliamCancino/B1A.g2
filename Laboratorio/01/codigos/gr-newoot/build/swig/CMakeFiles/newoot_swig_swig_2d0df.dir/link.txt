@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/newoot_swig_swig_2d0df.dir/newoot_swig_swig_2d0df.cpp.o  -o newoot_swig_swig_2d0df 

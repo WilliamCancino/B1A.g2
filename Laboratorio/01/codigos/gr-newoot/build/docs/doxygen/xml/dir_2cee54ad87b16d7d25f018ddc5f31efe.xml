@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="dir_2cee54ad87b16d7d25f018ddc5f31efe" kind="dir">
+    <compoundname>newoot</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <innerfile refid="square2__ff_8h">square2_ff.h</innerfile>
+    <innerfile refid="square__ff_8h">square_ff.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/william/Documentos/Comunicaciones_2/oot/gr-newoot/include/newoot/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,15 @@
+<block>
+  <name>Square2 ff</name>
+  <key>newoot_square2_ff</key>
+  <category>[NEWOOT]</category>
+  <import>import newoot</import>
+  <make>newoot.square2_ff()</make>
+  <sink>
+    <name>in</name>
+    <type>float</type>
+  </sink>
+  <source>
+    <name>out</name>
+    <type>float</type>
+  </source>
+</block>

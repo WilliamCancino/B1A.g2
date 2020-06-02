@@ -1,0 +1,40 @@
+Start testing: May 28 22:05 -05
+----------------------------------------------------------
+1/2 Testing: test_newoot
+1/2 Test: test_newoot
+Command: "/bin/sh" "/home/william/Documentos/Comunicaciones_2/oot/gr-newoot/build/lib/test_newoot_test.sh"
+Directory: /home/william/Documentos/Comunicaciones_2/oot/gr-newoot/build/lib
+"test_newoot" start time: May 28 22:05 -05
+Output:
+----------------------------------------------------------
+
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_newoot" end time: May 28 22:05 -05
+"test_newoot" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: qa_square_ff
+2/2 Test: qa_square_ff
+Command: "/bin/sh" "/home/william/Documentos/Comunicaciones_2/oot/gr-newoot/build/python/qa_square_ff_test.sh"
+Directory: /home/william/Documentos/Comunicaciones_2/oot/gr-newoot/build/python
+"qa_square_ff" start time: May 28 22:05 -05
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.004s
+
+OK
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"qa_square_ff" end time: May 28 22:05 -05
+"qa_square_ff" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 28 22:05 -05

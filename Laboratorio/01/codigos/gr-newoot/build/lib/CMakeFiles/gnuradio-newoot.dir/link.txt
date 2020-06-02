@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgnuradio-newoot-1.0.0git.so.0.0.0 -o libgnuradio-newoot-1.0.0git.so.0.0.0 CMakeFiles/gnuradio-newoot.dir/square_ff_impl.cc.o CMakeFiles/gnuradio-newoot.dir/square2_ff_impl.cc.o -Wl,-rpath,/usr/local/lib: -lboost_filesystem -lboost_system /usr/local/lib/libgnuradio-runtime.so /usr/local/lib/libgnuradio-pmt.so 
