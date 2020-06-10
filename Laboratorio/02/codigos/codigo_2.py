@@ -41,9 +41,9 @@ def autocor(x,tao):
 x = [0, 0.5, 1.2, 0.5, 0, -0.5]
 tao = 2
 
-print "Promedio de x[n] = " + str(promedio(x))
-print "Media cuadrática de x[n] = " + str(mediacua(x))
-print "Varianza = " +  str(varianza(x))
-print "Valor RMS = " +  str(rms(x))
-print"Potencia promedio = " +  str(potenpro(x))
-print "Función de autocorrelación = " +  str(autocor(x,tao))
+print("Promedio de x[n] = ", promedio(x))
+print("Media cuadrática de x[n] = ", mediacua(x))
+print("Varianza = ", varianza(x))
+print("Valor RMS = ", rms(x))
+print("Potencia promedio = ", potenpro(x))
+print("Función de autocorrelación = ", autocor(x,tao))
