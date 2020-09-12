@@ -1,1 +1,1 @@
-El flujograma correspondiente a la modulación FQAM es "FQAM". Adicionalmente, la carpeta "gr-d_freq_cf" contiene un nuevo bloque que se utiliza en esta implementación.
+El flujograma correspondiente a la modulación FQAM es "fqam.grc". Adicionalmente, la carpeta "gr-d_freq_cf" contiene un nuevo bloque que se utiliza en esta implementación.
