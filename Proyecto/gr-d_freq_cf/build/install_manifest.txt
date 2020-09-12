@@ -1,0 +1,9 @@
+/usr/local/lib/cmake/d_freq_cf/d_freq_cfConfig.cmake
+/usr/local/include/d_freq_cf/api.h
+/usr/local/lib/python3/dist-packages/d_freq_cf/__init__.py
+/usr/local/lib/python3/dist-packages/d_freq_cf/assign_freq_cf.py
+/usr/local/lib/python3/dist-packages/d_freq_cf/__init__.pyc
+/usr/local/lib/python3/dist-packages/d_freq_cf/assign_freq_cf.pyc
+/usr/local/lib/python3/dist-packages/d_freq_cf/__init__.pyo
+/usr/local/lib/python3/dist-packages/d_freq_cf/assign_freq_cf.pyo
+/usr/local/share/gnuradio/grc/blocks/d_freq_cf_assign_freq_cf.block.yml
